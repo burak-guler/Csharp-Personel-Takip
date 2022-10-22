@@ -1,0 +1,5 @@
+C:\Users\LENOVO\Desktop\C# murat yücedağ\15-NKatmanliMimari\NKatmanliMimari\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\LENOVO\Desktop\C# murat yücedağ\15-NKatmanliMimari\NKatmanliMimari\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\LENOVO\Desktop\C# murat yücedağ\15-NKatmanliMimari\NKatmanliMimari\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\C# murat yücedağ\15-NKatmanliMimari\NKatmanliMimari\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\LENOVO\Desktop\C# murat yücedağ\15-NKatmanliMimari\NKatmanliMimari\EntityLayer\obj\Debug\EntityLayer.pdb
